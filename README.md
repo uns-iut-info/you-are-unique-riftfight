@@ -1,5 +1,5 @@
 RIFTFIGHT :
-BIHANNIC Pierre
-NDUI AMADOU Be Ngally
-COLIN Andrew
+BIHANNIC Pierre,
+NDUI AMADOU Be Ngally,
+COLIN Andrew,
 GODART Michaël
